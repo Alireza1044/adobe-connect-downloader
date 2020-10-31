@@ -30,6 +30,7 @@ The program asks for your LMS's username and password and link to the recorded c
 ## Know issues
 - If the presenter got disconnected in the middle of recording, sound and video will not be synced.
 - If there was no screen share during redording(i.e. the presenter uploaded the slides to the system), There won't be any video.
+
 If you see other issues feel free to open an issue.
 
 ## Contribution
