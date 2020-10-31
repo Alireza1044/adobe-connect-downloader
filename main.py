@@ -71,7 +71,6 @@ def load_class(url, driver, path):
     print(os.path.join(path, f"{class_id}.zip"))
     while not os.path.isfile(os.path.join(path, f"{class_id}.zip")) or os.path.isfile(os.path.join(path, f"{class_id}.zip.part")):
         time.sleep(1)
-        print("shit")
         pass
 
     print("Download finished.")
