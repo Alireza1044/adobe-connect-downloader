@@ -27,7 +27,7 @@ The program asks for your LMS's username and password and link to the recorded c
 
 - For now, You should have **Firefox** installed for the program to work. I'll try to remove this dependency in the future.
 
-## Know issues
+## Known issues
 - If the presenter got disconnected in the middle of recording, sound and video will not be synced.
 - If there was no screen share during redording(i.e. the presenter uploaded the slides to the system), There won't be any video.
 
